@@ -10,8 +10,8 @@ require 'pry'
 
 def get_the_keys(groceries)
   #code your solution here!
-  puts groceries.values
-  groceries.values
+  puts groceries.keys
+  groceries.keys
 
 end
 
