@@ -13,3 +13,6 @@ def get_the_keys(groceries)
   groceries.values
   puts groceries.values
 end
+
+
+get_the_keys
